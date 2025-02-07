@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+Aishlinn O'Grady Corcoran
 ---
+
+Mechanical Projects
+Coding Projects
 
